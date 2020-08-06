@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    height: 600px;
+    width: 400px;
+    margin-top: 25px;
+    background-color: white;
+    border-radius: 13px;
+}
+
+.linea1 {
+    margin-top: -20px;
+} 
+
+.linea2 {
+    font-size: 160px;
+    font-family: 'Times New Roman', Times, serif;
+    /* margin: 20px 0 0 139px; */
+}
+
+.linea3 {
+    margin-left: 280px;
+}
+
+
+.suit {
+    font-size: 120px;        
+}
